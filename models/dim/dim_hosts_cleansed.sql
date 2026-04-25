@@ -4,7 +4,7 @@
     materialized = 'view'
     )
 }}
-
+--test of dev branch
 WITH src_hosts AS (
     SELECT
         *
